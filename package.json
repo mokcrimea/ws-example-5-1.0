@@ -13,7 +13,7 @@
   "author": "mokcrimea",
   "license": "ISC",
   "dependencies": {
-    "ws": "5.1.0",
+    "ws": "5.0.0",
     "pako": "1.0.8"
   }
 }
